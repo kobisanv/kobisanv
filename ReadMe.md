@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Kobisan Vinotharupan.<br>📚 I am a second-year computer science student at Ontario Tech University. <br>🤖 I am passionate in the fields of AI, full-stack development, low-level programming and game development.<br>🎧 I am currently working on an AI-powered music recommendation app using React Native and Spotipy API coupled with Tensorflow.<br>📂 I have made many projects such as game emulators, REST APIs and websites.<br>📎 Please check out my personal website at https://www.kobi-v.com 
+👋 Hi, my name is Kobisan Vinotharupan.<br>📚 I am a second-year computer science student at Ontario Tech University. <br>🤖 I am passionate in the fields of AI, full-stack development, low-level programming and game development.<br>🎧 I am currently working on an AI-powered music recommendation app using React Native and Spotipy API coupled with Tensorflow.<br>📂 I have made many projects such as game emulators, REST APIs and websites.<br>📎 Please check out my personal website at https://www.kobi-v.com<br>📨 Please check out my resume at https://drive.google.com/file/d/1AOpfiTXhGXxAc62drDxjt4iADVjuupoe/view?usp=sharing 
 
 
 ## 🌐 Socials:
